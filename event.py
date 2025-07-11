@@ -113,7 +113,7 @@ class EventLogger:
     """
     
     
-    def __init__(self, logfile="system.log"):
+    def __init__(self, logfile="traceback.log"):
         
         """
         Initialise le logger avec un fichier de sortie.
