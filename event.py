@@ -79,7 +79,7 @@ class EventAnalyzer:
         Détecte si trois événements critiques sont survenus en moins de 30 secondes.
         Si c'est le cas, enregistre une alerte.
         """
-        critical_events = [e for e in self.events if e.level == "CRITICAL"]
+        critical_events = [e for e in self.events if e.level == "CRITICAL" or e.level == "ERROR"]
         if len(critical_events) >= 3:
             if (critical_events[-1].timestamp - critical_events[-3].timestamp).total_seconds() <= 30:
                 last_three = critical_events[-3:]
