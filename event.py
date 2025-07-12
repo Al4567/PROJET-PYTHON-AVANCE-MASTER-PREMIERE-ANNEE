@@ -82,13 +82,25 @@ class EventAnalyzer:
         critical_events = [e for e in self.events if e.level == "CRITICAL"]
         if len(critical_events) >= 3:
             if (critical_events[-1].timestamp - critical_events[-3].timestamp).total_seconds() <= 30:
+                last_three = critical_events[-3:]
+                details = (
+                    "3 événements critiques détectés en moins de 30s\n"
+                    f" - 1: {last_three[0].timestamp.isoformat()} | {last_three[0].message}\n"
+                    f" - 2: {last_three[1].timestamp.isoformat()} | {last_three[1].message}\n"
+                    f" - 3: {last_three[2].timestamp.isoformat()} | {last_three[2].message}"
+                )
                 alert = {
                     "time": critical_events[-1].timestamp.isoformat(),
-                    "details": "3 événements critiques détectés en moins de 30s"
+                    "details": details
                 }
+            # if (critical_events[-1].timestamp - critical_events[-3].timestamp).total_seconds() <= 30:
+            #     alert = {
+            #         "time": critical_events[-1].timestamp.isoformat(),
+            #         "details": "3 événements critiques détectés en moins de 30s"
+            #     }
                 if alert not in self.alerts:
-                    self.alerts.append(alert)
-                    self.save_alerts()
+                        self.alerts.append(alert)
+                        self.save_alerts()
 
     def save_alerts(self, path="alerts.json"):
         """
@@ -99,8 +111,8 @@ class EventAnalyzer:
         path : str
             Nom du fichier JSON de sortie.
         """
-        with open(path, "w") as f:
-            json.dump(self.alerts, f, indent=2)
+        with open(path, "w",encoding="utf-8") as f:
+            json.dump(self.alerts, f, indent=2,ensure_ascii=False)
 
 class EventLogger:
     """

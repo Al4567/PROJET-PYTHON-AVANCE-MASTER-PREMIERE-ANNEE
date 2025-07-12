@@ -38,7 +38,7 @@ def generate_pdf_report(analyzer, filepath="report.pdf"):
     
     pdf = FPDF()
     pdf.add_page()
-    pdf.set_font("Arial", size=14)
+    pdf.set_font("Courier", size=14)
     pdf.cell(0, 10, f"Nombre total d'événements: {len(analyzer.events)}", ln=True)
     pdf.cell(0, 10, f"Nombre d'événements critiques: {len([e for e in analyzer.events if e.level == 'CRITICAL'])}", ln=True)
     pdf.cell(0, 10, f"Nombre d'alertes: {len(analyzer.alerts)}", ln=True)

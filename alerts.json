@@ -1,10 +1,10 @@
 [
   {
     "time": "2015-07-29T17:52:41.023044+00:00",
-    "details": "3 \u00e9v\u00e9nements critiques d\u00e9tect\u00e9s en moins de 30s"
+    "details": "3 événements critiques détectés en moins de 30s\n - 1: 2015-07-29T17:52:25.023044+00:00 | Service outage detected\n - 2: 2015-07-29T17:52:33.023044+00:00 | No quorum of peers available\n - 3: 2015-07-29T17:52:41.023044+00:00 | No quorum of peers available"
   },
   {
     "time": "2015-07-29T17:52:51.902036+00:00",
-    "details": "3 \u00e9v\u00e9nements critiques d\u00e9tect\u00e9s en moins de 30s"
+    "details": "3 événements critiques détectés en moins de 30s\n - 1: 2015-07-29T17:52:33.023044+00:00 | No quorum of peers available\n - 2: 2015-07-29T17:52:41.023044+00:00 | No quorum of peers available\n - 3: 2015-07-29T17:52:51.902036+00:00 | No quorum of peers available"
   }
 ]

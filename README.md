@@ -26,7 +26,7 @@ Projet_Surveillance/
 ├── visualizer.py # Histogrammes matplotlib
 ├── events.log # Fichier log JSON simulé
 ├── alerts.json # Alertes détectées
-├── system.log # Journalisation des traitements
+├── traceback.log # Journalisation des traitements
 ├── requirements.txt # Dépendances Python
 └── README.md # Ce fichier
 
@@ -54,3 +54,13 @@ pip install -r requirements.txt
 ``` bash
 
 python main.py
+
+```
+
+## Lien de mon repository GitHub
+
+[https://github.com/Al4567/PROJET-PYTHON-AVANCE-MASTER-PREMIERE-ANNEE](https://github.com/Al4567/PROJET-PYTHON-AVANCE-MASTER-PREMIERE-ANNEE)
+
+## Lien de la video pour la démonstration
+
+[https://www.loom.com/share/30ead12a693348deabcc511d50f7747c?sid=674a43de-d57f-4915-9f31-89fac2a47a66](https://www.loom.com/share/30ead12a693348deabcc511d50f7747c?sid=674a43de-d57f-4915-9f31-89fac2a47a66)

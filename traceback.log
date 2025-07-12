@@ -870,3 +870,1481 @@
 2025-07-07 21:07:11,281 - Event traité: INFO - New session created with session ID 0x0a1b2c
 2025-07-07 21:07:13,290 - Event traité: INFO - Syncing data with leader
 2025-07-07 21:07:15,301 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 16:42:15,078 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 16:42:17,093 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 16:42:19,109 - Event traité: INFO - Initialized data tree
+2025-07-12 16:42:21,112 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:42:23,116 - Event traité: WARN - Leader ping timeout
+2025-07-12 16:42:25,129 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:42:27,131 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 16:42:29,148 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 16:42:31,163 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 16:42:33,176 - Event traité: INFO - Syncing data with leader
+2025-07-12 16:42:35,183 - Event traité: WARN - Too many outstanding requests
+2025-07-12 16:42:37,194 - Event traité: INFO - Committed transaction proposal
+2025-07-12 16:42:39,210 - Event traité: CRITICAL - Service outage detected
+2025-07-12 16:42:41,223 - Event traité: INFO - Initialized data tree
+2025-07-12 16:42:43,229 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 16:42:45,247 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 16:42:47,283 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 16:42:49,394 - Event traité: INFO - Syncing data with leader
+2025-07-12 16:42:51,408 - Event traité: INFO - Initialized data tree
+2025-07-12 16:42:53,414 - Event traité: ERROR - Connection reset by peer
+2025-07-12 16:42:55,417 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 16:42:57,429 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 16:42:59,432 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 16:43:01,445 - Event traité: ERROR - Connection loss to leader
+2025-07-12 16:43:03,462 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 16:43:05,477 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 16:43:07,483 - Event traité: WARN - Client request queue depth high
+2025-07-12 16:43:09,498 - Event traité: INFO - Committed transaction proposal
+2025-07-12 16:43:11,511 - Event traité: INFO - Initialized data tree
+2025-07-12 16:43:13,527 - Event traité: WARN - Fsync delay detected
+2025-07-12 16:43:15,529 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 16:43:17,544 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 16:43:19,548 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 16:43:21,556 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 16:43:23,561 - Event traité: INFO - Initialized data tree
+2025-07-12 16:43:25,577 - Event traité: WARN - Too many outstanding requests
+2025-07-12 16:43:27,594 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 16:43:29,611 - Event traité: WARN - Leader ping timeout
+2025-07-12 16:43:31,615 - Event traité: INFO - Processing client request of type exists
+2025-07-12 16:43:33,635 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 16:43:35,645 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 16:43:37,649 - Event traité: WARN - Too many outstanding requests
+2025-07-12 16:43:39,662 - Event traité: INFO - Committed transaction proposal
+2025-07-12 16:43:41,666 - Event traité: ERROR - Client request timed out
+2025-07-12 16:43:43,676 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 16:43:45,691 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 16:43:47,694 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 16:43:49,712 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 16:43:51,727 - Event traité: INFO - Syncing data with leader
+2025-07-12 16:43:53,744 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 16:43:55,748 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 16:43:57,761 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 16:43:59,769 - Event traité: INFO - Processing client request of type exists
+2025-07-12 16:44:01,778 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 16:44:03,784 - Event traité: WARN - Leader ping timeout
+2025-07-12 16:44:05,794 - Event traité: WARN - Slow response from leader
+2025-07-12 16:44:07,811 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:44:09,818 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:44:11,832 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 16:44:13,843 - Event traité: WARN - Fsync delay detected
+2025-07-12 16:44:15,848 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 16:44:17,864 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 16:44:19,868 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 16:44:21,878 - Event traité: WARN - Leader ping timeout
+2025-07-12 16:44:23,880 - Event traité: WARN - Client request queue depth high
+2025-07-12 16:44:25,892 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:44:27,895 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 16:44:29,911 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 16:44:31,928 - Event traité: INFO - Initialized data tree
+2025-07-12 16:44:33,945 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 16:44:35,958 - Event traité: INFO - Syncing data with leader
+2025-07-12 16:44:37,961 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 16:44:39,976 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 16:44:41,992 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 16:44:44,002 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 16:44:46,010 - Event traité: ERROR - Connection reset by peer
+2025-07-12 16:44:48,012 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:44:50,018 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 16:44:52,030 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 16:44:54,045 - Event traité: WARN - Slow response from leader
+2025-07-12 16:44:56,047 - Event traité: WARN - Client request queue depth high
+2025-07-12 16:44:58,064 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 16:45:00,066 - Event traité: INFO - Syncing data with leader
+2025-07-12 16:45:02,078 - Event traité: WARN - Too many outstanding requests
+2025-07-12 16:45:04,083 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 16:45:06,094 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 16:45:08,110 - Event traité: WARN - Slow response from leader
+2025-07-12 16:45:10,126 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 16:45:12,128 - Event traité: WARN - Too many outstanding requests
+2025-07-12 16:45:14,143 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 16:45:16,158 - Event traité: ERROR - Connection reset by peer
+2025-07-12 16:45:18,163 - Event traité: INFO - Processing client request of type exists
+2025-07-12 16:45:20,175 - Event traité: WARN - Fsync delay detected
+2025-07-12 16:45:22,192 - Event traité: INFO - Initialized data tree
+2025-07-12 16:45:24,197 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 16:45:26,212 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 16:45:28,227 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 16:45:30,232 - Event traité: WARN - Slow response from leader
+2025-07-12 16:45:32,246 - Event traité: WARN - Too many outstanding requests
+2025-07-12 16:45:34,261 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 16:45:36,277 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 16:45:38,281 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 16:45:40,294 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 16:45:42,297 - Event traité: INFO - Processing client request of type exists
+2025-07-12 16:45:44,310 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 16:45:46,326 - Event traité: INFO - Committed transaction proposal
+2025-07-12 16:45:48,347 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 16:45:50,353 - Event traité: INFO - Syncing data with leader
+2025-07-12 16:45:52,360 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:42:10,674 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:42:12,687 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:42:14,695 - Event traité: INFO - Initialized data tree
+2025-07-12 17:42:16,756 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:42:18,770 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:42:20,775 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:42:22,777 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 17:42:24,786 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 17:42:26,800 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 17:42:28,803 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:42:30,807 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:42:32,819 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:42:34,822 - Event traité: CRITICAL - Service outage detected
+2025-07-12 17:42:36,836 - Event traité: INFO - Initialized data tree
+2025-07-12 17:42:38,854 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:42:40,876 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:42:42,889 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:42:44,901 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:42:46,907 - Event traité: INFO - Initialized data tree
+2025-07-12 17:42:48,923 - Event traité: ERROR - Connection reset by peer
+2025-07-12 17:42:50,937 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 17:42:52,952 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:42:54,968 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 17:42:56,973 - Event traité: ERROR - Connection loss to leader
+2025-07-12 17:42:58,976 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 17:43:00,986 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:43:02,989 - Event traité: WARN - Client request queue depth high
+2025-07-12 17:43:05,003 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:43:07,007 - Event traité: INFO - Initialized data tree
+2025-07-12 17:43:09,022 - Event traité: WARN - Fsync delay detected
+2025-07-12 17:43:11,038 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 17:43:13,040 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 17:43:15,076 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:43:17,169 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:43:19,185 - Event traité: INFO - Initialized data tree
+2025-07-12 17:43:21,187 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:43:23,192 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 17:43:25,202 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:43:27,218 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:43:29,224 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:43:31,234 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:43:33,271 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:43:35,323 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:43:37,336 - Event traité: ERROR - Client request timed out
+2025-07-12 17:43:39,341 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 17:43:41,356 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:43:43,370 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:43:45,385 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:43:47,403 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:43:49,420 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:43:51,436 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 17:43:53,447 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 17:43:55,452 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:43:57,466 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:43:59,486 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:44:01,488 - Event traité: WARN - Slow response from leader
+2025-07-12 17:44:03,505 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:44:05,519 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:44:07,536 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 17:44:09,595 - Event traité: WARN - Fsync delay detected
+2025-07-12 17:44:11,652 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:44:13,669 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:44:15,674 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:44:17,691 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:44:19,706 - Event traité: WARN - Client request queue depth high
+2025-07-12 17:44:21,720 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:44:23,724 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:44:25,738 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 17:44:27,740 - Event traité: INFO - Initialized data tree
+2025-07-12 17:44:29,752 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:44:31,768 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:44:33,785 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 17:44:35,801 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:44:37,819 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:44:39,836 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:44:41,852 - Event traité: ERROR - Connection reset by peer
+2025-07-12 17:44:43,869 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:44:45,936 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:44:47,951 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:44:49,955 - Event traité: WARN - Slow response from leader
+2025-07-12 17:44:51,970 - Event traité: WARN - Client request queue depth high
+2025-07-12 17:44:53,974 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:44:55,984 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:44:58,004 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:45:00,021 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 17:45:02,023 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 17:45:04,039 - Event traité: WARN - Slow response from leader
+2025-07-12 17:45:06,056 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:45:08,072 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:45:10,085 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 17:45:12,114 - Event traité: ERROR - Connection reset by peer
+2025-07-12 17:45:14,120 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:45:16,123 - Event traité: WARN - Fsync delay detected
+2025-07-12 17:45:18,136 - Event traité: INFO - Initialized data tree
+2025-07-12 17:45:20,153 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 17:45:22,171 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:45:24,175 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:45:26,190 - Event traité: WARN - Slow response from leader
+2025-07-12 17:45:28,200 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:45:30,207 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:45:32,220 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:45:34,241 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:45:36,251 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 17:45:38,255 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:45:40,258 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 17:45:42,275 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:45:44,286 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:45:46,293 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:45:48,353 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:51:42,486 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:51:44,493 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:51:46,501 - Event traité: INFO - Initialized data tree
+2025-07-12 17:51:48,504 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:51:50,519 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:51:52,529 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:51:54,535 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 17:51:56,553 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 17:51:58,571 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 17:52:00,585 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:52:02,602 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:52:04,619 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:52:06,636 - Event traité: CRITICAL - Service outage detected
+2025-07-12 17:52:08,653 - Event traité: INFO - Initialized data tree
+2025-07-12 17:52:10,668 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:52:12,690 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:52:14,700 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:52:16,715 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:52:18,719 - Event traité: INFO - Initialized data tree
+2025-07-12 17:52:20,734 - Event traité: ERROR - Connection reset by peer
+2025-07-12 17:52:22,751 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 17:52:24,767 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:52:26,781 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 17:52:28,786 - Event traité: ERROR - Connection loss to leader
+2025-07-12 17:52:30,802 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 17:52:32,820 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:52:34,828 - Event traité: WARN - Client request queue depth high
+2025-07-12 17:52:36,835 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:52:38,853 - Event traité: INFO - Initialized data tree
+2025-07-12 17:52:40,860 - Event traité: WARN - Fsync delay detected
+2025-07-12 17:52:42,872 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 17:52:44,887 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 17:52:46,905 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:52:48,916 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:52:50,928 - Event traité: INFO - Initialized data tree
+2025-07-12 17:52:52,937 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:52:54,951 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 17:52:56,959 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:52:58,965 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:53:00,969 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:53:02,981 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:53:04,985 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:53:06,993 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:53:08,995 - Event traité: ERROR - Client request timed out
+2025-07-12 17:53:11,002 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 17:53:13,014 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:53:15,020 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:53:17,033 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:53:19,052 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:53:21,071 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 17:53:23,085 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 17:53:25,099 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 17:53:27,103 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:53:29,118 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:53:31,134 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:53:33,152 - Event traité: WARN - Slow response from leader
+2025-07-12 17:53:35,165 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:53:37,176 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:53:39,181 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 17:53:41,184 - Event traité: WARN - Fsync delay detected
+2025-07-12 17:53:43,193 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:53:45,197 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:53:47,201 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:53:49,219 - Event traité: WARN - Leader ping timeout
+2025-07-12 17:53:51,237 - Event traité: WARN - Client request queue depth high
+2025-07-12 17:53:53,254 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:53:55,267 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:53:57,287 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 17:53:59,301 - Event traité: INFO - Initialized data tree
+2025-07-12 17:54:01,320 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:54:03,327 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:54:05,336 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 17:54:07,352 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:54:09,370 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:54:11,384 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 17:54:13,402 - Event traité: ERROR - Connection reset by peer
+2025-07-12 17:54:15,417 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:54:17,439 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:54:19,443 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:54:21,452 - Event traité: WARN - Slow response from leader
+2025-07-12 17:54:23,462 - Event traité: WARN - Client request queue depth high
+2025-07-12 17:54:25,521 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:54:27,535 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:54:29,546 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:54:31,551 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 17:54:33,568 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 17:54:35,576 - Event traité: WARN - Slow response from leader
+2025-07-12 17:54:37,604 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 17:54:39,611 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:54:41,615 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 17:54:43,634 - Event traité: ERROR - Connection reset by peer
+2025-07-12 17:54:45,653 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:54:47,669 - Event traité: WARN - Fsync delay detected
+2025-07-12 17:54:49,684 - Event traité: INFO - Initialized data tree
+2025-07-12 17:54:51,702 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 17:54:53,718 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 17:54:55,731 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 17:54:57,735 - Event traité: WARN - Slow response from leader
+2025-07-12 17:54:59,751 - Event traité: WARN - Too many outstanding requests
+2025-07-12 17:55:01,770 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 17:55:03,785 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 17:55:05,794 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 17:55:07,803 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 17:55:09,818 - Event traité: INFO - Processing client request of type exists
+2025-07-12 17:55:11,820 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 17:55:13,836 - Event traité: INFO - Committed transaction proposal
+2025-07-12 17:55:15,854 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 17:55:17,873 - Event traité: INFO - Syncing data with leader
+2025-07-12 17:55:19,884 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:29:27,899 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:29:29,911 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:29:31,913 - Event traité: INFO - Initialized data tree
+2025-07-12 18:29:33,926 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:29:35,946 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:29:37,954 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:29:39,965 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:29:41,975 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 18:29:43,980 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:29:45,997 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:29:48,010 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:29:50,015 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:29:52,026 - Event traité: CRITICAL - Service outage detected
+2025-07-12 18:29:54,028 - Event traité: INFO - Initialized data tree
+2025-07-12 18:29:56,039 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:29:58,055 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:30:00,073 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:30:02,083 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:30:04,099 - Event traité: INFO - Initialized data tree
+2025-07-12 18:30:06,109 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:30:08,123 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:30:10,131 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:30:12,149 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:30:14,155 - Event traité: ERROR - Connection loss to leader
+2025-07-12 18:30:16,162 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 18:30:18,195 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:30:20,196 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:30:22,213 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:30:24,215 - Event traité: INFO - Initialized data tree
+2025-07-12 18:30:26,229 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:30:28,230 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 18:30:30,244 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:30:32,251 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:30:34,265 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:30:36,281 - Event traité: INFO - Initialized data tree
+2025-07-12 18:30:38,288 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:30:40,299 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:30:42,313 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:30:44,315 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:30:46,333 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:30:48,346 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:30:50,363 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:30:52,384 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:30:54,396 - Event traité: ERROR - Client request timed out
+2025-07-12 18:30:56,416 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 18:30:58,418 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:31:00,430 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:31:02,448 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:31:04,457 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:31:06,461 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:31:08,472 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 18:31:10,478 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:31:12,480 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:31:14,495 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:31:16,497 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:31:18,513 - Event traité: WARN - Slow response from leader
+2025-07-12 18:31:20,529 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:31:22,563 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:31:24,566 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 18:31:26,581 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:31:28,582 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:31:30,598 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:31:32,613 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:31:34,629 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:31:36,631 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:31:38,658 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:31:40,662 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:31:42,679 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:31:44,698 - Event traité: INFO - Initialized data tree
+2025-07-12 18:31:46,714 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:31:48,733 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:31:50,749 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:31:52,764 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:31:54,782 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:31:56,796 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:31:58,800 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:32:00,815 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:32:02,819 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:32:04,830 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:32:06,833 - Event traité: WARN - Slow response from leader
+2025-07-12 18:32:08,845 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:32:10,871 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:32:12,880 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:32:14,897 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:32:16,910 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:32:18,913 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 18:32:20,916 - Event traité: WARN - Slow response from leader
+2025-07-12 18:32:22,922 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:32:24,931 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:32:26,939 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 18:32:28,948 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:32:30,962 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:32:32,966 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:32:34,980 - Event traité: INFO - Initialized data tree
+2025-07-12 18:32:36,999 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:32:39,013 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:32:41,028 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:32:43,037 - Event traité: WARN - Slow response from leader
+2025-07-12 18:32:45,046 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:32:47,060 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:32:49,064 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:32:51,079 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:32:53,096 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:32:55,110 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:32:57,113 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 18:32:59,118 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:33:01,121 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:33:03,130 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:33:05,132 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:41:24,264 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:41:26,281 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:41:28,307 - Event traité: INFO - Initialized data tree
+2025-07-12 18:41:30,314 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:41:32,321 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:41:34,328 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:41:36,343 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:41:38,350 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 18:41:40,364 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:41:42,382 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:41:44,394 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:41:46,404 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:41:48,420 - Event traité: CRITICAL - Service outage detected
+2025-07-12 18:41:50,433 - Event traité: INFO - Initialized data tree
+2025-07-12 18:41:52,446 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:41:54,453 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:41:56,461 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:41:58,463 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:42:00,478 - Event traité: INFO - Initialized data tree
+2025-07-12 18:42:02,496 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:42:04,503 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:42:06,505 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:42:08,515 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:42:10,528 - Event traité: ERROR - Connection loss to leader
+2025-07-12 18:42:12,538 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 18:42:14,546 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:42:16,564 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:42:18,576 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:42:20,578 - Event traité: INFO - Initialized data tree
+2025-07-12 18:42:22,593 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:42:24,596 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 18:42:26,603 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:42:28,608 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:42:30,620 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:42:32,631 - Event traité: INFO - Initialized data tree
+2025-07-12 18:42:34,645 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:42:36,654 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:42:38,657 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:42:40,661 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:42:42,667 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:42:44,681 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:42:46,697 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:42:48,715 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:42:50,726 - Event traité: ERROR - Client request timed out
+2025-07-12 18:42:52,729 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 18:42:54,746 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:42:56,763 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:42:58,778 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:43:00,786 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:43:02,795 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:43:04,810 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 18:43:06,828 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:43:08,843 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:43:10,862 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:43:12,880 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:43:14,891 - Event traité: WARN - Slow response from leader
+2025-07-12 18:43:16,893 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:43:18,903 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:43:20,911 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 18:43:22,921 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:43:24,926 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:43:26,930 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:43:28,946 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:43:30,963 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:43:32,980 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:43:34,994 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:43:36,999 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:43:39,007 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:43:41,014 - Event traité: INFO - Initialized data tree
+2025-07-12 18:43:43,029 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:43:45,047 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:43:47,053 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:43:49,063 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:43:51,077 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:43:53,079 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:43:55,096 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:43:57,105 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:43:59,115 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:44:01,129 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:44:03,148 - Event traité: WARN - Slow response from leader
+2025-07-12 18:44:05,154 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:44:07,159 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:44:09,163 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:44:11,180 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:44:13,187 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:44:15,204 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 18:44:17,223 - Event traité: WARN - Slow response from leader
+2025-07-12 18:44:19,231 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:44:21,238 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:44:23,250 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 18:44:25,253 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:44:27,261 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:44:29,263 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:44:31,272 - Event traité: INFO - Initialized data tree
+2025-07-12 18:44:33,281 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:44:35,294 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:44:37,313 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:44:39,321 - Event traité: WARN - Slow response from leader
+2025-07-12 18:44:41,328 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:44:43,337 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:44:45,338 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:44:47,344 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:44:49,366 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:44:51,381 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:44:53,393 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 18:44:55,412 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:44:57,427 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:44:59,446 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:45:01,454 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:45:59,858 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:46:01,862 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:46:03,878 - Event traité: INFO - Initialized data tree
+2025-07-12 18:46:05,896 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:46:07,905 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:46:09,910 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:46:11,931 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:46:13,944 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 18:46:15,952 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:46:17,965 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:46:19,977 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:46:21,986 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:46:23,994 - Event traité: CRITICAL - Service outage detected
+2025-07-12 18:46:26,007 - Event traité: INFO - Initialized data tree
+2025-07-12 18:46:28,010 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:46:30,030 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:46:32,053 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:46:34,060 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:46:36,077 - Event traité: INFO - Initialized data tree
+2025-07-12 18:46:38,095 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:46:40,111 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:46:42,128 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:46:44,137 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 18:46:46,146 - Event traité: ERROR - Connection loss to leader
+2025-07-12 18:46:48,159 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 18:46:50,170 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:46:52,179 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:46:54,186 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:46:56,213 - Event traité: INFO - Initialized data tree
+2025-07-12 18:46:58,228 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:47:00,243 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 18:47:02,262 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:47:04,271 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:47:06,300 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:47:08,311 - Event traité: INFO - Initialized data tree
+2025-07-12 18:47:10,328 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:47:12,345 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:47:14,353 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:47:16,361 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:47:18,380 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:47:20,388 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:47:22,397 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:47:24,409 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:47:26,419 - Event traité: ERROR - Client request timed out
+2025-07-12 18:47:28,427 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 18:47:30,446 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:47:32,452 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:47:34,465 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:47:36,482 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:47:38,496 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 18:47:40,512 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 18:47:42,529 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:47:44,573 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:47:46,646 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:47:48,660 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:47:50,665 - Event traité: WARN - Slow response from leader
+2025-07-12 18:47:52,678 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:47:54,683 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:47:56,696 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 18:47:58,715 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:48:00,730 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:48:02,737 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:48:04,743 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:48:06,759 - Event traité: WARN - Leader ping timeout
+2025-07-12 18:48:08,777 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:48:10,784 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:48:12,794 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:48:14,802 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:48:16,804 - Event traité: INFO - Initialized data tree
+2025-07-12 18:48:18,812 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:48:20,831 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:48:22,848 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:48:24,911 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:48:26,928 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:48:28,946 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 18:48:30,962 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:48:32,982 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:48:34,996 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:48:37,011 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:48:39,031 - Event traité: WARN - Slow response from leader
+2025-07-12 18:48:41,040 - Event traité: WARN - Client request queue depth high
+2025-07-12 18:48:43,044 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:48:45,062 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:48:47,077 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:48:49,094 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 18:48:51,111 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 18:48:53,130 - Event traité: WARN - Slow response from leader
+2025-07-12 18:48:55,147 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 18:48:57,153 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:48:59,162 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 18:49:01,178 - Event traité: ERROR - Connection reset by peer
+2025-07-12 18:49:03,194 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:49:05,196 - Event traité: WARN - Fsync delay detected
+2025-07-12 18:49:07,213 - Event traité: INFO - Initialized data tree
+2025-07-12 18:49:09,233 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 18:49:11,244 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 18:49:13,262 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 18:49:15,269 - Event traité: WARN - Slow response from leader
+2025-07-12 18:49:17,279 - Event traité: WARN - Too many outstanding requests
+2025-07-12 18:49:19,294 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 18:49:21,310 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 18:49:23,319 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 18:49:25,331 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 18:49:27,346 - Event traité: INFO - Processing client request of type exists
+2025-07-12 18:49:29,361 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 18:49:31,381 - Event traité: INFO - Committed transaction proposal
+2025-07-12 18:49:33,396 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 18:49:35,412 - Event traité: INFO - Syncing data with leader
+2025-07-12 18:49:37,425 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:04:26,592 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:04:28,610 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:04:30,619 - Event traité: INFO - Initialized data tree
+2025-07-12 19:04:32,626 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:04:34,645 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:04:36,659 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:04:38,663 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:04:40,677 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:04:42,685 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:04:44,691 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:04:46,694 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:04:48,710 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:04:50,727 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:04:52,756 - Event traité: INFO - Initialized data tree
+2025-07-12 19:04:54,799 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:04:56,816 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:04:58,852 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:05:00,860 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:05:02,865 - Event traité: INFO - Initialized data tree
+2025-07-12 19:05:04,875 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:05:06,883 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:05:08,894 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:05:10,901 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:05:12,909 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:05:14,940 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:05:16,955 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:05:18,958 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:05:20,975 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:05:22,983 - Event traité: INFO - Initialized data tree
+2025-07-12 19:05:25,000 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:05:27,009 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:05:29,021 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:05:31,026 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:05:33,043 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:05:35,066 - Event traité: INFO - Initialized data tree
+2025-07-12 19:05:37,082 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:05:39,091 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:05:41,108 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:05:43,125 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:05:45,144 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:05:47,160 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:05:49,175 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:05:51,184 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:05:53,193 - Event traité: ERROR - Client request timed out
+2025-07-12 19:05:55,201 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:05:57,209 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:05:59,226 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:06:01,242 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:06:03,257 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:06:05,262 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:06:07,298 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:06:09,300 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:06:11,311 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:06:13,326 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:06:15,343 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:06:17,352 - Event traité: WARN - Slow response from leader
+2025-07-12 19:06:19,358 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:06:21,375 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:06:23,392 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:06:25,408 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:06:27,425 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:06:29,441 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:06:31,459 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:06:33,470 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:06:35,475 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:06:37,491 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:06:39,504 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:06:41,512 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:06:43,525 - Event traité: INFO - Initialized data tree
+2025-07-12 19:06:45,533 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:06:47,541 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:06:49,554 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:06:51,558 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:06:53,575 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:06:55,592 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:06:57,625 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:06:59,641 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:07:01,651 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:07:03,659 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:07:05,661 - Event traité: WARN - Slow response from leader
+2025-07-12 19:07:07,676 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:07:09,692 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:07:11,708 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:07:13,725 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:07:15,743 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:07:17,758 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 19:07:19,773 - Event traité: WARN - Slow response from leader
+2025-07-12 19:07:21,793 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:07:23,809 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:07:25,824 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:07:27,837 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:07:29,841 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:07:31,859 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:07:33,875 - Event traité: INFO - Initialized data tree
+2025-07-12 19:07:35,892 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:07:37,905 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:07:39,925 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:07:41,942 - Event traité: WARN - Slow response from leader
+2025-07-12 19:07:43,960 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:07:45,976 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:07:47,992 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:07:50,010 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:07:52,026 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:07:54,043 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:07:56,055 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:07:58,076 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:08:00,121 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:08:02,208 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:08:04,212 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:12:25,324 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:12:27,334 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:12:29,340 - Event traité: INFO - Initialized data tree
+2025-07-12 19:12:31,358 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:12:33,374 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:12:35,382 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:12:37,384 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:12:39,400 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:12:41,409 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:12:43,424 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:12:45,442 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:12:47,459 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:12:49,474 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:12:51,495 - Event traité: INFO - Initialized data tree
+2025-07-12 19:12:53,507 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:12:55,520 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:12:57,535 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:12:59,561 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:13:01,575 - Event traité: INFO - Initialized data tree
+2025-07-12 19:13:03,584 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:13:05,590 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:13:07,610 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:13:09,622 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:13:11,641 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:13:13,644 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:13:15,659 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:13:17,677 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:13:19,692 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:13:21,699 - Event traité: INFO - Initialized data tree
+2025-07-12 19:13:23,744 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:13:25,791 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:13:27,810 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:13:29,824 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:13:31,827 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:13:33,838 - Event traité: INFO - Initialized data tree
+2025-07-12 19:13:35,849 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:13:37,875 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:13:39,890 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:13:41,908 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:13:43,917 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:13:45,924 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:13:47,937 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:13:49,940 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:13:51,955 - Event traité: ERROR - Client request timed out
+2025-07-12 19:13:53,959 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:13:55,975 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:13:57,986 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:14:00,010 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:14:02,093 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:14:04,107 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:14:06,110 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:14:08,125 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:14:10,139 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:14:12,157 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:14:14,178 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:14:16,191 - Event traité: WARN - Slow response from leader
+2025-07-12 19:14:18,206 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:14:20,224 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:14:22,243 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:14:24,259 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:14:26,274 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:14:28,290 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:14:30,294 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:14:32,308 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:14:34,324 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:14:36,345 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:14:38,358 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:14:40,370 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:14:42,376 - Event traité: INFO - Initialized data tree
+2025-07-12 19:14:44,393 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:14:46,408 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:14:48,426 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:14:50,440 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:14:52,459 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:14:54,474 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:14:56,483 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:14:58,495 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:15:00,507 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:15:02,524 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:15:04,542 - Event traité: WARN - Slow response from leader
+2025-07-12 19:15:06,549 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:15:08,556 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:15:10,574 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:15:12,590 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:15:14,611 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:15:16,623 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 19:15:18,643 - Event traité: WARN - Slow response from leader
+2025-07-12 19:15:20,657 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:15:22,676 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:15:24,691 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:15:26,708 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:15:28,717 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:15:30,729 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:15:32,740 - Event traité: INFO - Initialized data tree
+2025-07-12 19:15:34,742 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:15:36,751 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:15:38,762 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:15:40,772 - Event traité: WARN - Slow response from leader
+2025-07-12 19:15:42,790 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:15:44,805 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:15:46,824 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:15:48,842 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:15:50,857 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:15:52,872 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:15:54,897 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:15:56,903 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:15:58,907 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:16:00,910 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:16:02,926 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:19:59,882 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:20:01,891 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:20:03,900 - Event traité: INFO - Initialized data tree
+2025-07-12 19:20:05,906 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:20:07,916 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:20:09,923 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:20:11,939 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:20:13,956 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:20:15,982 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:20:18,008 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:20:20,021 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:20:22,025 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:20:24,035 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:20:26,038 - Event traité: INFO - Initialized data tree
+2025-07-12 19:20:28,044 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:20:30,063 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:20:32,132 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:20:34,165 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:20:36,176 - Event traité: INFO - Initialized data tree
+2025-07-12 19:20:38,184 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:20:40,207 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:20:42,223 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:20:44,240 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:20:46,243 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:20:48,254 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:20:50,258 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:20:52,266 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:20:54,275 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:20:56,373 - Event traité: INFO - Initialized data tree
+2025-07-12 19:20:58,477 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:21:00,493 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:21:02,500 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:21:04,507 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:21:06,521 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:21:08,536 - Event traité: INFO - Initialized data tree
+2025-07-12 19:21:10,539 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:21:12,543 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:21:14,556 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:21:16,578 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:21:18,592 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:21:20,594 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:21:22,604 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:21:24,609 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:21:26,627 - Event traité: ERROR - Client request timed out
+2025-07-12 19:21:28,644 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:21:30,657 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:21:32,659 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:21:34,669 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:21:36,678 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:21:38,692 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:21:40,707 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:21:42,779 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:21:44,864 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:21:46,975 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:21:48,989 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:21:51,035 - Event traité: WARN - Slow response from leader
+2025-07-12 19:21:53,047 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:21:55,056 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:21:57,062 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:21:59,069 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:22:01,085 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:22:03,094 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:22:05,113 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:22:07,123 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:22:09,137 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:22:11,151 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:22:13,155 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:22:15,159 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:22:17,173 - Event traité: INFO - Initialized data tree
+2025-07-12 19:22:19,190 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:22:21,206 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:22:23,221 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:22:25,237 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:22:27,247 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:22:29,407 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:22:31,441 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:22:33,443 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:22:35,447 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:22:37,459 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:22:39,476 - Event traité: WARN - Slow response from leader
+2025-07-12 19:22:41,492 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:22:43,508 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:22:45,519 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:22:47,539 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:22:49,552 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:22:51,572 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 19:22:53,580 - Event traité: WARN - Slow response from leader
+2025-07-12 19:22:55,585 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:22:57,596 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:22:59,606 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:23:01,622 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:23:03,637 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:23:05,640 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:23:07,652 - Event traité: INFO - Initialized data tree
+2025-07-12 19:23:09,657 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:23:11,665 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:23:13,677 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:23:15,685 - Event traité: WARN - Slow response from leader
+2025-07-12 19:23:17,691 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:23:19,700 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:23:21,708 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:23:23,727 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:23:25,767 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:23:27,771 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:23:29,782 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:23:31,791 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:23:33,806 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:23:35,813 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:23:37,844 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:25:49,804 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:25:51,822 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:25:53,839 - Event traité: INFO - Initialized data tree
+2025-07-12 19:25:55,847 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:25:57,857 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:25:59,873 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:26:01,891 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:26:03,906 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:26:05,922 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:26:07,965 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:26:09,973 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:26:11,993 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:26:14,008 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:26:16,023 - Event traité: INFO - Initialized data tree
+2025-07-12 19:26:18,041 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:26:20,056 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:26:22,081 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:26:24,090 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:26:26,098 - Event traité: INFO - Initialized data tree
+2025-07-12 19:26:28,108 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:26:30,117 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:26:32,143 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:26:34,156 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:26:36,175 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:26:38,192 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:26:40,206 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:26:42,222 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:26:44,224 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:26:46,240 - Event traité: INFO - Initialized data tree
+2025-07-12 19:26:48,255 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:26:50,265 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:26:52,275 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:26:54,298 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:26:56,380 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:26:59,379 - Event traité: INFO - Initialized data tree
+2025-07-12 19:27:01,384 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:27:03,407 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:27:05,430 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:27:07,464 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:27:09,486 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:27:11,586 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:27:13,621 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:27:15,646 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:27:17,657 - Event traité: ERROR - Client request timed out
+2025-07-12 19:27:19,676 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:27:21,946 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:27:24,269 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:27:26,273 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:27:28,280 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:27:30,305 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:27:32,323 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:27:34,331 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:27:36,340 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:27:38,345 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:27:40,353 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:27:42,365 - Event traité: WARN - Slow response from leader
+2025-07-12 19:27:44,373 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:27:46,383 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:27:48,390 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:27:50,398 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:27:52,407 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:27:54,422 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:27:56,441 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:27:58,456 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:28:00,473 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:28:02,489 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:28:04,505 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:28:06,519 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:28:08,522 - Event traité: INFO - Initialized data tree
+2025-07-12 19:28:10,670 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:28:12,689 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:28:14,705 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:28:16,708 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:28:18,725 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:28:20,774 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:28:22,825 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:28:24,841 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:28:26,848 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:28:28,861 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:28:30,870 - Event traité: WARN - Slow response from leader
+2025-07-12 19:28:32,887 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:28:34,891 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:28:36,897 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:28:38,906 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:28:40,909 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:32:41,905 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:32:43,921 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:32:45,931 - Event traité: INFO - Initialized data tree
+2025-07-12 19:32:47,940 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:32:49,954 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:32:51,971 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:32:53,988 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:32:56,003 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:32:58,017 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:33:00,025 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:33:02,038 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:33:04,059 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:33:06,064 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:33:08,071 - Event traité: INFO - Initialized data tree
+2025-07-12 19:33:10,088 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:33:12,110 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:33:14,136 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:33:16,156 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:33:18,167 - Event traité: INFO - Initialized data tree
+2025-07-12 19:33:20,180 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:33:22,193 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:33:24,197 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:33:26,204 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:33:28,219 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:33:30,233 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:33:32,255 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:33:34,259 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:33:36,261 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:33:38,279 - Event traité: INFO - Initialized data tree
+2025-07-12 19:33:40,286 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:33:42,299 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:33:44,307 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:33:46,322 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:33:48,337 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:33:50,341 - Event traité: INFO - Initialized data tree
+2025-07-12 19:33:52,354 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:33:54,363 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:33:56,376 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:33:58,390 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:34:00,395 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:34:02,412 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:34:04,421 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:34:06,423 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:34:08,430 - Event traité: ERROR - Client request timed out
+2025-07-12 19:34:10,439 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:34:12,454 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:34:14,465 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:34:16,478 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:34:18,500 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:34:20,504 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:34:22,508 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:34:24,523 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:34:26,529 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:34:28,535 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:34:30,539 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:34:32,547 - Event traité: WARN - Slow response from leader
+2025-07-12 19:34:34,557 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:34:36,562 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:34:38,571 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:34:40,615 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:34:42,757 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:34:44,760 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:34:46,769 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:34:48,776 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:34:50,789 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:34:52,804 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:34:54,819 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:34:56,823 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:34:58,838 - Event traité: INFO - Initialized data tree
+2025-07-12 19:35:00,852 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:35:02,862 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:35:04,872 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:35:06,880 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:35:08,895 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:35:10,907 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:35:12,915 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:35:14,922 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:35:16,937 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:35:18,946 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:35:20,955 - Event traité: WARN - Slow response from leader
+2025-07-12 19:35:22,972 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:35:24,981 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:35:26,996 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:35:29,007 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:35:31,024 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:38:49,713 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:38:51,725 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:38:53,736 - Event traité: INFO - Initialized data tree
+2025-07-12 19:38:55,747 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:38:57,751 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:38:59,758 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:39:01,770 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:39:03,774 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:39:05,790 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:39:07,802 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:39:09,813 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:39:11,822 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:39:13,838 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:39:15,855 - Event traité: INFO - Initialized data tree
+2025-07-12 19:39:17,880 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:39:19,892 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:39:21,919 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:39:23,929 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:39:25,939 - Event traité: INFO - Initialized data tree
+2025-07-12 19:39:27,954 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:39:29,971 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:39:31,973 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:39:33,987 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:39:36,002 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:39:38,007 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:39:40,020 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:39:42,037 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:39:44,039 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:39:46,053 - Event traité: INFO - Initialized data tree
+2025-07-12 19:39:48,067 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:39:50,072 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:39:52,080 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:39:54,091 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:39:56,106 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:39:58,219 - Event traité: INFO - Initialized data tree
+2025-07-12 19:40:00,238 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:40:02,247 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:40:04,253 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:40:06,270 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:40:08,279 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:40:10,286 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:40:12,310 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:40:14,320 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:40:16,338 - Event traité: ERROR - Client request timed out
+2025-07-12 19:40:18,341 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:40:20,345 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:40:22,352 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:40:24,372 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:40:26,386 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:40:28,405 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:40:30,421 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:40:32,429 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:40:34,457 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:40:36,508 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:40:38,513 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:40:40,527 - Event traité: WARN - Slow response from leader
+2025-07-12 19:40:42,539 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:40:44,563 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:40:46,575 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:40:48,590 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:40:50,597 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:40:52,604 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:40:54,620 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:40:56,637 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:40:58,653 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:41:00,666 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:41:02,670 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:41:04,678 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:41:06,689 - Event traité: INFO - Initialized data tree
+2025-07-12 19:41:08,703 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:41:10,706 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:41:12,720 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:41:14,742 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:41:16,756 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:41:18,771 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:41:20,785 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:41:22,828 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:41:24,906 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:41:26,911 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:41:28,920 - Event traité: WARN - Slow response from leader
+2025-07-12 19:41:30,939 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:41:32,943 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:41:34,955 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:41:36,970 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:41:38,985 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:41:41,003 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 19:41:43,022 - Event traité: WARN - Slow response from leader
+2025-07-12 19:41:45,036 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:41:47,045 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:41:49,057 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:41:51,070 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:41:53,090 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:41:55,106 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:41:57,112 - Event traité: INFO - Initialized data tree
+2025-07-12 19:41:59,124 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:42:01,138 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:42:03,153 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:42:05,169 - Event traité: WARN - Slow response from leader
+2025-07-12 19:42:07,178 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:42:09,186 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:42:11,194 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:42:13,205 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:42:15,220 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:42:17,228 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:42:19,233 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:42:21,236 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:42:23,253 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:42:25,270 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:42:27,288 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:46:13,481 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:46:15,491 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:46:17,520 - Event traité: INFO - Initialized data tree
+2025-07-12 19:46:19,872 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:46:21,910 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:46:23,926 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:46:25,937 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:46:27,954 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:46:29,967 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:46:32,032 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:46:34,079 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:46:36,093 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:46:38,104 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:46:40,111 - Event traité: INFO - Initialized data tree
+2025-07-12 19:46:42,125 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:46:44,161 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:46:46,296 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:46:48,388 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:46:50,406 - Event traité: INFO - Initialized data tree
+2025-07-12 19:46:52,427 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:46:54,454 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:46:56,479 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:46:58,491 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:47:00,503 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:47:02,514 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:47:04,543 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:47:06,664 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:47:08,697 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:47:10,706 - Event traité: INFO - Initialized data tree
+2025-07-12 19:47:12,715 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:47:14,742 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:47:16,762 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:47:18,845 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:47:21,158 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:47:23,174 - Event traité: INFO - Initialized data tree
+2025-07-12 19:47:25,194 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:47:27,203 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:47:29,208 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:47:31,256 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:47:33,288 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:47:35,293 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:47:37,345 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:47:39,350 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:47:41,400 - Event traité: ERROR - Client request timed out
+2025-07-12 19:47:43,408 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:47:45,417 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:47:47,482 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:47:49,503 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:47:51,526 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:47:53,577 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:47:55,853 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:47:57,897 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:47:59,929 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:48:01,943 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:48:03,966 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:48:06,047 - Event traité: WARN - Slow response from leader
+2025-07-12 19:48:08,204 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:48:10,222 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:48:12,460 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:48:14,471 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:48:16,530 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:48:18,607 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:48:20,617 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:48:22,626 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:48:24,643 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:48:26,679 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:48:28,701 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:48:30,736 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:48:32,791 - Event traité: INFO - Initialized data tree
+2025-07-12 19:48:34,803 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:48:36,822 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:48:38,838 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:48:40,848 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:48:42,906 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:48:44,927 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:48:46,939 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:48:49,082 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:48:51,200 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:48:53,341 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:48:55,349 - Event traité: WARN - Slow response from leader
+2025-07-12 19:48:57,370 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:48:59,383 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:49:01,401 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:49:03,422 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:49:05,433 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:49:07,478 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 19:49:09,492 - Event traité: WARN - Slow response from leader
+2025-07-12 19:49:11,515 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:49:13,667 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:49:15,827 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:49:17,843 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:49:19,890 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:49:21,996 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:49:24,057 - Event traité: INFO - Initialized data tree
+2025-07-12 19:49:26,295 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:49:28,422 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:49:30,456 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:49:32,460 - Event traité: WARN - Slow response from leader
+2025-07-12 19:49:34,477 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:49:36,494 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:49:38,525 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:49:40,574 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:49:42,910 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:49:44,929 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:49:46,932 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:49:48,946 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:49:50,955 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:49:52,960 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:49:54,988 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:52:47,526 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:52:49,561 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:52:51,569 - Event traité: INFO - Initialized data tree
+2025-07-12 19:52:53,581 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:52:55,598 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:52:57,612 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:52:59,626 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:53:01,707 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:53:03,764 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:53:05,780 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:53:07,890 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:53:10,104 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:53:12,144 - Event traité: CRITICAL - Service outage detected
+2025-07-12 19:53:14,204 - Event traité: INFO - Initialized data tree
+2025-07-12 19:53:16,250 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:53:18,631 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:53:21,431 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:53:23,614 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:53:25,662 - Event traité: INFO - Initialized data tree
+2025-07-12 19:53:27,691 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:53:30,210 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:53:32,463 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:53:34,508 - Event traité: ERROR - Failed to write snapshot to disk
+2025-07-12 19:53:36,721 - Event traité: ERROR - Connection loss to leader
+2025-07-12 19:53:38,732 - Event traité: ERROR - Transaction log corrupted
+2025-07-12 19:53:40,754 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:53:42,877 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:53:44,882 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:53:47,410 - Event traité: INFO - Initialized data tree
+2025-07-12 19:53:49,420 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:53:51,436 - Event traité: ERROR - Unable to recover from snapshot
+2025-07-12 19:53:53,618 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:53:55,724 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:53:57,846 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:54:00,199 - Event traité: INFO - Initialized data tree
+2025-07-12 19:54:02,219 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:54:04,575 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:54:06,988 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:54:09,022 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:54:11,046 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:54:13,096 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:54:15,256 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:54:17,274 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:54:19,821 - Event traité: ERROR - Client request timed out
+2025-07-12 19:54:21,842 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:54:23,855 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:54:25,867 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:54:28,223 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:54:30,281 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:54:32,542 - Event traité: INFO - Watch set on path /app/config
+2025-07-12 19:54:34,911 - Event traité: WARN - Exceeded watch count limit
+2025-07-12 19:54:36,945 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:54:38,990 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:54:41,032 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:54:43,071 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:54:45,651 - Event traité: WARN - Slow response from leader
+2025-07-12 19:54:47,891 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:54:49,923 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:54:52,477 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:54:54,866 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:54:57,383 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:54:59,523 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:55:01,648 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:55:03,728 - Event traité: WARN - Leader ping timeout
+2025-07-12 19:55:05,883 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:55:08,019 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:55:10,693 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:55:12,838 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:55:14,869 - Event traité: INFO - Initialized data tree
+2025-07-12 19:55:16,915 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:55:19,244 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:55:21,828 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:55:24,075 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:55:26,302 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:55:28,335 - Event traité: INFO - Connection established to ZooKeeper server
+2025-07-12 19:55:30,360 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:55:32,381 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:55:34,512 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:55:36,616 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:55:38,847 - Event traité: WARN - Slow response from leader
+2025-07-12 19:55:40,866 - Event traité: WARN - Client request queue depth high
+2025-07-12 19:55:42,879 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:55:44,896 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:55:46,936 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:55:49,086 - Event traité: INFO - Ephemeral node created at path /app/node1
+2025-07-12 19:55:51,129 - Event traité: CRITICAL - ZooKeeper service unavailable
+2025-07-12 19:55:53,214 - Event traité: WARN - Slow response from leader
+2025-07-12 19:55:55,227 - Event traité: WARN - Auth failure for client 192.168.1.10
+2025-07-12 19:55:57,239 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:55:59,249 - Event traité: INFO - Leader accepted connection from follower
+2025-07-12 19:56:01,274 - Event traité: ERROR - Connection reset by peer
+2025-07-12 19:56:03,629 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:56:05,866 - Event traité: WARN - Fsync delay detected
+2025-07-12 19:56:07,891 - Event traité: INFO - Initialized data tree
+2025-07-12 19:56:09,987 - Event traité: ERROR - Session expired for client 0x2b3c4d
+2025-07-12 19:56:12,047 - Event traité: CRITICAL - No quorum of peers available
+2025-07-12 19:56:14,599 - Event traité: WARN - Proposed zxid not increasing
+2025-07-12 19:56:16,795 - Event traité: WARN - Slow response from leader
+2025-07-12 19:56:18,963 - Event traité: WARN - Too many outstanding requests
+2025-07-12 19:56:21,042 - Event traité: WARN - Connection to 192.168.1.11 refused, retrying
+2025-07-12 19:56:23,203 - Event traité: INFO - Follower starting handshake with leader
+2025-07-12 19:56:25,339 - Event traité: WARN - Session 0x1a2b3c nearing expiration
+2025-07-12 19:56:27,363 - Event traité: ERROR - Socket exception on port 2181
+2025-07-12 19:56:29,413 - Event traité: INFO - Processing client request of type exists
+2025-07-12 19:56:31,453 - Event traité: ERROR - Unexpected exception in LeaderElection: NullPointerException
+2025-07-12 19:56:33,611 - Event traité: INFO - Committed transaction proposal
+2025-07-12 19:56:35,811 - Event traité: INFO - New session created with session ID 0x0a1b2c
+2025-07-12 19:56:37,858 - Event traité: INFO - Syncing data with leader
+2025-07-12 19:56:40,240 - Event traité: INFO - Follower starting handshake with leader

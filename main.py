@@ -50,7 +50,7 @@ async def spinner(task_done_event):
         sys.stdout.write(Fore.YELLOW + f'\r Traitement en cours... {c}')
         sys.stdout.flush()
         await asyncio.sleep(0.1)
-    sys.stdout.write(Fore.GREEN + "\r Traitement terminé.            \n")
+    sys.stdout.write(Fore.GREEN + "\r Traitement terminé. \n")
 
 
 
@@ -123,7 +123,7 @@ def menu():
             if choice == "1":
                 asyncio.run(launch_processing_with_spinner())
             elif choice == "2":
-                print(Fore.MAGENTA + json.dumps(analyzer.alerts, indent=2))
+                print(Fore.MAGENTA + json.dumps(analyzer.alerts, indent=2,ensure_ascii=False))
             elif choice == "3":
                 generate_pdf_report(analyzer)
                 print(Fore.BLUE + "Rapport généré dans report.pdf")
@@ -138,43 +138,3 @@ def menu():
 
 if __name__ == "__main__":
     menu()
-
-
-
-
-
-
-
-
-
-########################################### ANCIEN MAIN.py ###############################################
-
-# async def launch_processing():
-#     await read_log_file("events.log", analyzer, logger)
-
-# def menu():
-#     while True:
-#         print("\n--- Menu Surveillance ---")
-#         print("1. Lancer le traitement")
-#         print("2. Afficher alertes")
-#         print("3. Générer rapport")
-#         print("4. Visualiser histogramme")
-#         print("5. Quitter")
-#         choice = input("Choisissez une option: ")
-#         if choice == "1":
-#             asyncio.run(launch_processing())
-#         elif choice == "2":
-#             print(json.dumps(analyzer.alerts, indent=2))
-#         elif choice == "3":
-#             generate_pdf_report(analyzer)
-#             print("Rapport PDF généré dans report.pdf")
-#         elif choice == "4":
-#             plot_events(analyzer)
-#         elif choice == "5":
-#             print("Au revoir")
-#             break
-#         else:
-#             print("Option invalide.")
-
-# if __name__ == "__main__":
-#     menu()
